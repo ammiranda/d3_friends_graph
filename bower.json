@@ -1,0 +1,20 @@
+{
+  "name": "colin_gists",
+  "version": "0.0.0",
+  "authors": [
+    "Alexander <alexandermichaelmiranda@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.3.11",
+    "underscore": "~1.5.2",
+    "jquery": "~2.0.3"
+  }
+}
